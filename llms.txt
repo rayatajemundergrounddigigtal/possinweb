@@ -6,6 +6,7 @@
 - [Beranda](https://possin.id/): ringkasan produk, harga Rp50.000/bulan, FAQ
 - [Demo fitur](https://possin.id/demofitur/): fitur lengkap (multi outlet, laba rugi, stok otomatis, meja & pesanan, struk digital)
 - [Harga](https://possin.id/): flat Rp50.000/bulan, Rp600.000/tahun, tanpa tiering
+- [Perbandingan harga aplikasi kasir](https://possin.id/harga-aplikasi-kasir/): tabel harga POS 2026 (Majoo, Moka, ESB, Qasir, Kasir Pintar, dll.) vs Possin
 - [Tentang](https://possin.id/about/): tentang Possin
 - [Kontak](https://possin.id/contact/): WhatsApp, email, Instagram
 
