@@ -1,0 +1,19 @@
+# Possin
+
+> Possin adalah aplikasi kasir (POS) web untuk kafe, restoran, dan usaha umum. Satu paket flat Rp50.000/bulan, semua fitur aktif tanpa paket bertingkat. Dikembangkan dari Indonesia, dilayani untuk pelanggan di seluruh Indonesia.
+
+## Halaman utama
+- [Beranda](https://possin.id/): ringkasan produk, harga Rp50.000/bulan, FAQ
+- [Demo fitur](https://possin.id/demofitur/): fitur lengkap (multi outlet, laba rugi, stok otomatis, meja & pesanan, struk digital)
+- [Harga](https://possin.id/): flat Rp50.000/bulan, Rp600.000/tahun, tanpa tiering
+- [Tentang](https://possin.id/about/): tentang Possin
+- [Kontak](https://possin.id/contact/): WhatsApp, email, Instagram
+
+## Blog
+- [Blog index](https://possin.id/blog/): tips kasir untuk kafe dan restoran
+- [Aplikasi kasir murah dan bagus: panduan singkat untuk kafe](https://possin.id/blog/aplikasi-kasir-murah-dan-bagus/)
+
+## Kontak
+- WhatsApp: https://wa.me/6285721631961
+- Email: wafiqzulfaninaim@gmail.com
+- Instagram: https://www.instagram.com/aplikasikasirpossin
