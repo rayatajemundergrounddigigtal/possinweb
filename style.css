@@ -273,8 +273,8 @@ img{max-width:100%;display:block}
 .hs-app .rail i svg{width:56%;height:56%;fill:none;stroke:currentColor;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round}
 .hs-app .rail i.on{background:rgba(242,180,65,.9);box-shadow:0 0 10px rgba(242,180,65,.5);color:#2a1a08}
 .hs-app .main{flex:1;min-width:0;padding:6% 6% 6%;display:flex;flex-direction:column;gap:4%}
-.hs-app .main h4{font-size:2.4cqw;font-weight:800;color:var(--cream);margin:0;letter-spacing:-.01em}
-.hs-app .main h4 span{color:var(--amber)}
+.hs-app .main .hs-stat{font-size:2.4cqw;font-weight:800;color:var(--cream);margin:0;letter-spacing:-.01em}
+.hs-app .main .hs-stat span{color:var(--amber)}
 .hs-kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:4%}
 .hs-kpi{background:var(--surface);border:1px solid var(--line);border-radius:1.4cqw;padding:8% 6%}
 .hs-kpi span{display:block;font-size:1.5cqw;color:var(--muted);font-weight:600;margin-bottom:4%}
@@ -332,7 +332,7 @@ img{max-width:100%;display:block}
   padding:9% 8% 8%;transform:rotate(-4deg);
   animation:hsFloat 6s ease-in-out infinite;--hs-d:-8px;
 }
-.hs-receipt h5{font-family:var(--serif);font-size:2.1cqw;font-weight:800;text-align:center;margin:0 0 6%;letter-spacing:.02em;color:#2b1d14}
+.hs-receipt .hs-brand{font-family:var(--serif);font-size:2.1cqw;font-weight:800;text-align:center;margin:0 0 6%;letter-spacing:.02em;color:#2b1d14}
 .hs-receipt .rr{display:flex;font-size:1.7cqw;color:#6d5846;margin-bottom:4%;gap:3%}
 .hs-receipt .rr em{margin-left:auto;font-style:normal;color:#2b1d14;font-weight:600}
 .hs-receipt .rt{border-top:1px dashed #c9b393;margin-top:2%;padding-top:6%;display:flex;font-size:1.95cqw;font-weight:800;color:#2b1d14}
@@ -727,7 +727,7 @@ footer{
 }
 @media (min-width:700px){.footer-grid{grid-template-columns:repeat(2,1fr)}}
 @media (min-width:1000px){.footer-grid{grid-template-columns:1.6fr 1fr 1fr 1fr}}
-.footer-grid h4,.footer-grid .footer-h{
+.footer-grid h4,.footer-grid h2.ft-h{
   font-size:.78rem;letter-spacing:.13em;text-transform:uppercase;
   color:var(--cream);margin:0 0 .85rem;font-weight:800;
 }
