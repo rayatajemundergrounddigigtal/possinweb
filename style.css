@@ -899,7 +899,7 @@ html.rv-js .reveal.in{opacity:1;transform:none}
 .post-body .meta{margin-top:auto;padding-top:.9rem;font-size:.78rem;color:#8a765d;display:flex;gap:.9rem;flex-wrap:wrap}
 
 /* ---- prose (artikel blog + legal) ---- */
-.crumbs{font-size:.85rem;color:#8a765d;margin:0 0 1.4rem}
+.crumbs{font-size:.85rem;color:#8a765d;margin:16px 0 1.4rem}
 .crumbs a{color:var(--muted);text-decoration:none}
 .crumbs a:hover{color:var(--amber)}
 .prose{max-width:740px;margin:0 auto}
